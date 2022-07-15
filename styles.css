@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+}
+
+h1, h2, h3, button {
+    font-family: sans-serif;
+}
+
+div {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.recipe-title {
+    background-color: skyblue;
+    text-align: center;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+
+}
+
+.recipe-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: skyblue;
+    font-size: 25px;
+}
